@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "alg": "ed25519",
+  "seq": 1,
+  "generated_at": "2026-10-14 13:35:28",
+  "revoked": [
+    "16fc924cfdccdf345e0abb5ab2b51219e9596446e6f73d1737d5d1da1234664e"
+  ],
+  "note": "首次生成 R10",
+  "ed_sig": "1bc9619a280adcf7dbf431abecbe55b58c7eee8649ef3e176be090e3e2485a2f9ab95142b3faa8c606d87f94cd725d6c8511acd3da414daa3ac0b43f40183208"
+}
